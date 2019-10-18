@@ -7,7 +7,9 @@
 
 ## Tips & tricks
 
--   [Disable AEM Link Checker](disable-link-checker.md)
+-   [Predicate property (`dialog`)](tips/dialog-predicate.md)
+-   [Disable AEM Link Checker](tips/disable-link-checker.md)
+-   [Remove component wrapping `div`](tips/remove-component-wrapping-div.md)
 
 ## Questions
 

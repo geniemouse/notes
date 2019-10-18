@@ -19,7 +19,7 @@ _Tools > CRXDE Lite_
 
 AEM environment-based code editor, for quick (live) tweaking/testing of code changes. Use carfully and don't forget to save!
 
-http://localhost:4502/crx/de/index.jsp
+[http://localhost:4502/crx/de/index.jsp]
 
 ## Package Manager
 
@@ -27,23 +27,23 @@ _Tools > Operations > Packaging > Packages_
 
 Create, import and export `zip` files in AEM.
 
-http://localhost:4502/crx/packmgr/index.jsp
+[http://localhost:4502/crx/packmgr/index.jsp]
 
 ## AEM Console
 
 OSGi bundles, HTTP service, etc.
 
-http://localhost:4502/system/console/
+[http://localhost:4502/system/console/]
 
 ### OSGi > Configuration
 
-http://localhost:4502/system/console/configMgr
+[http://localhost:4502/system/console/configMgr]
 
 ### Components
 
-http://localhost:4502/system/console/components
+[http://localhost:4502/system/console/components]
 
 ## Translation (i18n)
 
-http://localhost:4502/libs/cq/i18n/translator.html
+[http://localhost:4502/libs/cq/i18n/translator.html]
 

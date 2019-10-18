@@ -18,4 +18,4 @@ Disable it for specific resources via the `x-cq-linkchecker` attibute. It accept
 
 **More information**
 
-[https://helpx.adobe.com/experience-manager/kb/DisableLinkChecker.html]
+[https://helpx.adobe.com/experience-manager/kb/DisableLinkChecker.html]()

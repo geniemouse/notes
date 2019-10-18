@@ -1,3 +1,3 @@
 # Developer notes
 
--   [Adobe Experience Manager](/aem/) (formerly _Day Communiqué_)
+A repository of saved developer notes.

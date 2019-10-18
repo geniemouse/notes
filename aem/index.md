@@ -1,14 +1,5 @@
 # AEM notes
 
-<!-- MarkdownTOC -->
-
-1. [AEM links & locations](#aem-links--locations)
-1. [Tips & tricks](#tips--tricks)
-1. [Questions](#questions)
-1. [Troubleshooting](#troubleshooting)
-
-<!-- /MarkdownTOC -->
-
 ## AEM links & locations
 
 -   [Author/Publish environment locations](environment-locations.md)

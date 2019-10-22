@@ -5,10 +5,12 @@ All links provided here are for `localhost` author (default port `:4502`). For a
 <!-- MarkdownTOC -->
 
 1. [CRX DE Lite](#crx-de-lite)
+1. [Explorer](#explorer)
 1. [Package Manager](#package-manager)
 1. [AEM Console](#aem-console)
     1. [OSGi > Configuration](#osgi--configuration)
     1. [Components](#components)
+1. [Bundles](#bundles)
 1. [Translation \(i18n\)](#translation-i18n)
 
 <!-- /MarkdownTOC -->
@@ -20,6 +22,10 @@ _Tools > CRXDE Lite_
 AEM environment-based code editor, for quick (live) tweaking/testing of code changes. Use carfully and don't forget to save!
 
 [http://localhost:4502/crx/de/index.jsp]()
+
+## Explorer
+
+[http://localhost:4502/crx/explorer]()
 
 ## Package Manager
 
@@ -42,6 +48,10 @@ OSGi bundles, HTTP service, etc.
 ### Components
 
 [http://localhost:4502/system/console/components]()
+
+## Bundles
+
+[http://localhost:4502/system/console/bundles]()
 
 ## Translation (i18n)
 

@@ -10,6 +10,11 @@ Useful links for AEM development.
     1. [Chrome plugins](#chrome-plugins)
     1. [IDE plugins](#ide-plugins)
     1. [AEM HTML Templating Language REPL shell](#aem-html-templating-language-repl-shell)
+1. [Blogs & Forums](#blogs--forums)
+    1. [Adobe Experience Manager Forum](#adobe-experience-manager-forum)
+    1. [Adobe AEM the Right Way](#adobe-aem-the-right-way)
+    1. [Experience Delivers \(Adobe\)](#experience-delivers-adobe)
+    1. [AEM Training \(non-partners\)](#aem-training-non-partners)
 1. [Sling](#sling)
     1. [Manipulating content](#manipulating-content)
 
@@ -49,6 +54,34 @@ This REPL helps developers learn the _HSL_ syntax and provides a way to test HTM
 
 -   [REPL](https://github.com/adobe/aem-htl-repl)
 -   [Review/demo](http://www.techinsight.io/review/adobe-experience-manager/aem-sightly-and-the-repl-shell/) (2014)
+
+## Blogs & Forums
+
+### Adobe Experience Manager Forum
+
+-   [https://forums.adobe.com](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager)
+
+### Adobe AEM the Right Way
+
+_Best practices, tips, and tricks for your Adobe AEM project_
+
+A Wordpress blog by Brad Meehan and guests.
+
+-   [Adobe AEM the Right Way](https://adobeaemtherightway.wordpress.com/)
+-   Article: ["Responsible Personalization: How brands can build trust with consumers"](https://adage.com/article/digitalnext/responsible-personalization-brands-build-trust/299843)
+    -   _Don't Be Like 'The Truman Show.' Let Users Control How they Share Information._
+    -   By Brad Meehan.
+    -   Published on August 07, 2015.
+
+### Experience Delivers (Adobe)
+
+-   [Experience Delivers (Adobe)](https://blogs.adobe.com/experiencedelivers/)
+
+This site also hosted a short-lived newsletter _"Sidekick Magazine"_
+
+### AEM Training (non-partners)
+
+-   [https://learning.adobe.com](https://learning.adobe.com/catalog.html?solution=Adobe%20Experience%20Manager)
 
 ## Sling
 

@@ -6,6 +6,7 @@
 1. [Components list not showing in _Sidekick_](#components-list-not-showing-in-sidekick)
 1. [Conflicting Git/VLT line-endings](#conflicting-gitvlt-line-endings)
 1. [\(CQ5.5\) Creating template-only content package](#cq55-creating-template-only-content-package)
+1. [Image previews disappear](#image-previews-disappear)
 
 <!-- /MarkdownTOC -->
 
@@ -49,3 +50,7 @@ In order to get round this issue, create a package that point at `/etc/designs/{
 | _exclude_   | `/etc/designs/{SITE_NAME}/fonts(/._)?` |
 | _exclude_   | `/etc/designs/{SITE_NAME}/image(/._)?` |
 | _exclude_   | `/etc/designs/{SITE_NAME}/js(/._)?`    |
+
+## Image previews disappear
+
+If a custom component has more than one image tab in its _dialog_, a bug occurs whereby previously added images disappear in the image preview panes (the image content reference remains intact). This is caused by the image `xml` attribute references not being unique within the component and the lack of hard-coded `sling:resourceType` references pointing to the foundation image component: `libs/foundation/components/image`.
